@@ -1,2 +1,4 @@
 # Portfolio
-Created my personal website portfolio, inspired by Brittany Chiang.
+ My website portfolio in progress, inspired by Brittany Chiang
+## Preview
+ Link : https://nicetrybeni30.github.io/Portfolio/
